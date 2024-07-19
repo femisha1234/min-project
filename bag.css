@@ -1,0 +1,190 @@
+#div1 {
+    width: 650px;
+    height: 70px;
+    border: 1px solid rgb(217, 208, 208);
+    background-color: rgb(255, 241, 241);
+    margin-left: 230px;
+    margin-top: 40px;
+    border-radius: 6px;
+    padding: 10px;
+    padding-top: 20px;
+    position: relative;
+}
+#maindiv{
+    width: 920px;
+    height: 700px;
+    border-top: 1px solid rgb(217, 208, 208);
+    border-right: 1px solid rgb(217, 208, 208);
+}
+
+#btn{
+    color: deeppink;
+    background-color: rgb(255, 241, 241);
+    border:1px solid deeppink;
+    border-radius: 5px;
+    width: 160px;
+    height: 40px;
+    margin-top: -10px;
+    margin-left: 190px;
+}
+#div2 {
+    width: 650px;
+    height: 120px;
+    border: 1px solid rgb(217, 208, 208);
+    margin-left: 230px;
+    margin-top: 20px;
+    border-radius: 6px;
+    padding: 10px;
+    padding-top: 20px;
+}
+#btn1{
+    color: deeppink;
+    background-color:white;
+    border-radius: 5px;
+    margin-top: -10px;
+    word-spacing: 2px;
+}
+#div3{
+    width: 650px;
+    height: 120px;
+    margin-left: 230px;
+    margin-top: 20px;
+}
+input[type="checkbox"] {
+    width: 15px;
+    height: 15px;
+    margin-left: 20px;
+    cursor: pointer;
+    accent-color: deeppink;
+}
+#div4{
+    margin-left: 230px;
+    margin-top: -50px;
+}
+#btn2{
+    color: black;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    margin-top: -3px;
+    word-spacing: 2px;
+    padding: 5px;
+    letter-spacing: 1px;
+
+}
+#btn3{
+    color: black;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    margin-top: -3px;
+    padding: 5px;
+    width: 100px;
+    margin-left: 20px;
+    letter-spacing: 1px;
+
+}
+#div5{
+    width: 595px;
+    height: 700px;
+    border-top: 1px solid rgb(217, 208, 208);
+    position: absolute;
+    top: 76px;
+    margin-left: 918px;
+}
+#btn4{
+    color: deeppink;
+    background-color: white;
+    border:1px solid deeppink;
+    border-radius: 2px;
+    width: 70px;
+    height: 40px;
+    margin-top: -10px;
+    margin-left: 190px;
+}
+#btn4:hover{
+    background-color: rgb(255, 241, 241);
+}
+#div6{
+    width: 595px;
+    height: 200px;
+    border-top: 1px solid rgb(217, 208, 208);
+    border-bottom: 1px solid rgb(217, 208, 208);
+    position: absolute;
+    top: 220px;
+    margin-left: 918px;
+}
+#rs10{
+    width: 60px;
+    height: 40px;
+    border: 1px solid rgb(190, 181, 181);
+    border-radius: 20px;
+    margin-left: 30px;
+    background-color: white;
+    padding: 5px;
+}
+#rs20{
+    width: 60px;
+    height: 40px;
+    border: 1px solid rgb(190, 181, 181);
+    border-radius: 20px;
+    margin-left: 30px;
+    background-color: white;
+    padding: 5px;
+}
+#rs50{
+    width: 60px;
+    height: 40px;
+    border: 1px solid rgb(190, 181, 181);
+    border-radius: 20px;
+    margin-left: 30px;
+    background-color: white;
+    padding: 5px;
+}
+#rs100{
+    width: 60px;
+    height: 40px;
+    border: 1px solid rgb(190, 181, 181);
+    border-radius: 20px;
+    margin-left: 30px;
+    background-color: white;
+    padding: 5px;
+}
+#div7{
+    width: 595px;
+    height: 240px;
+    border-bottom: 1px solid rgb(217, 208, 208);
+    position: absolute;
+    top: 220px;
+    margin-left: 15px;
+}
+#orderbtn{
+    background-color:deeppink;
+    color: white;
+    border: 1px solid deeppink;
+    border-radius: 2px;
+    width: 320px;
+    margin-left: 23px;
+    padding: 5px;
+}
+#add{
+    background-color:deeppink;
+    color: white;
+    border: 1px solid deeppink;
+    border-radius: 1px;
+    margin-top: 6px;
+    width: 20px;
+    height: 22px;
+    margin-left: 5px;
+    border-radius: 2px;
+
+}
+#sub{
+    background-color:deeppink;
+    color: white;
+    border: 1px solid deeppink;
+    border-radius: 1px;
+    margin-top: 6px;
+    width: 20px;
+    height: 22px;
+    margin-left: 10px;
+    border-radius: 2px;
+}
